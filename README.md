@@ -1,0 +1,1 @@
+# pertemuanke6
