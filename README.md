@@ -402,4 +402,4 @@ Untuk hasil dari String Format 2 adalah :<br>
 **TERIMA KASIH** <br>
 
 
-![youtube](foto/youtube.png)
+![aga](foto/aga.png)
