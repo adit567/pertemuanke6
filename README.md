@@ -80,7 +80,7 @@ print(1234567) <br>
 `>Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br> 
  `*(newline)*` <br>
 
-![input](foto/input.PNG)
+![inputt](foto/inputt.png)
 
 pada gambar di atas, hasil dari inputan tersebut berwarna *hijau* <br>
 
