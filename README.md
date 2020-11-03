@@ -170,7 +170,8 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris.
 
 ```
 
-`> Penggunaan print () digunakan untuk mencetak output, seperti syntax dibawah ini :`
+`> Penggunaan p
+rint () digunakan untuk mencetak output, seperti syntax dibawah ini :`
 
 ``` python
 
@@ -191,7 +192,7 @@ Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris.
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
 
 
-![outputend](poto/outputend.png)
+![rifai](foto/rifai.png)
 
 
 

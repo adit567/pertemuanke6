@@ -1,0 +1,7 @@
+print('A', end='')
+print('D', end='')
+print('I', end='')
+print()
+print('T')
+print('Y')
+print('A')
