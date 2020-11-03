@@ -24,26 +24,26 @@ Berikut *source code* nya atau Klik Link berikut ([pertemuan5 python](pertemuan5
 ```python <br>
 
 print("==============================") <br>
-print("= NAMA    : Risky HariAdi     ") <br>
-print("= NIM     : 312010124         ") <br>
+print("= NAMA    : Muhammad Rifai Aditia    ") <br>
+print("= NIM     : 312010065       ") <br>
 print("= KELAS   : TI.20 A.1         ") <br>
 print("==============================") <br>
 
-`print("Please enter your full name : Risky HariAdi")` <br> 
+`print("Please enter your full name : Muhammad Rifai Aditia")` <br> 
 `fullname=input()` <br>
-`print("Please enter nickname : Risky")` <br> 
+`print("Please enter nickname : Radit")` <br> 
 `nickname=input()` <br>
-`print("Please enter your NPM : 312010124")` <br> 
+`print("Please enter your NPM : 312010065")` <br> 
 `npm=input()` <br>
-`print("Please enter place of birth : BEKASI")` <br> 
+`print("Please enter place of birth : Ponorogo")` <br> 
 `pob=input()` <br>
-`print("Please enter date of birth : 13")` <br> 
+`print("Please enter date of birth : 08")` <br> 
 `date=input()` <br>
-`print("Please enter your month of birth : July")` <br> 
+`print("Please enter your month of birth : Januari")` <br> 
 `month=input()` <br>
-`print("Please enter year of birth : 2000")` <br> 
-`year=input()` <br>
-`print("Please enter your phone number : 085282024179")` <br>
+`print("Please enter year of birth : 2002")` <br> 
+`year=input'                                                                                                                                                
+`print("Please enter your phone number : 0895320208010")` <br>
 `phone=input()` <br>
 `print("Please enter your address : Perumahan Graha Bagasasi")` <br> 
 `address=input()` <br>
@@ -62,12 +62,13 @@ Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter
  Untuk menampilkan output string, saya menggunakan *tanda petik dua* didalam fungsi print(), sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan *tanda petik dua*. Contohnya : <br>
 
 ```python
-
+l
 print("Nama saya adalah...") <br>
 print(1234567) <br>
 ```
 (Seperti gambar dibawah ini) <br> 
 ![outputprint](poto/outputprint.png )
+
 * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini : <br>
 
  ```python 
