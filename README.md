@@ -391,7 +391,7 @@ String Format 2
 `print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))`
 
 
-![radit2](foto/radit2.png)
+![berlin](foto/berlin.png)
 
 Untuk hasil dari String Format 2 adalah :<br>
 
