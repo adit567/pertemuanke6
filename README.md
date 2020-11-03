@@ -395,7 +395,7 @@ String Format 2
 
 Untuk hasil dari String Format 2 adalah :<br>
 
-![hasilvariable](foto/hasilvariable.png)
+![indira](foto/indira.png)
 
 <br><hr><br>
 
