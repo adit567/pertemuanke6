@@ -266,7 +266,7 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 
 * Penggunaan source code yang di berikan oleh dosen seperti berikut : <br>
 
-![string](foto/string.png) <br>
+![stringg](foto/stringg.png) <br>
 
 ``` python
 
