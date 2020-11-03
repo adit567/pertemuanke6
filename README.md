@@ -324,7 +324,7 @@ Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai poko
 
 Hasil dari source code contoh diatas akan seperti berikut :<br>
 
-![hhasilstring](poto/hhasilstring.png)
+![hasilstring2](foto/hasilstring2.png)
 
 >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
 
