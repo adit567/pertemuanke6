@@ -338,7 +338,7 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 
 
-![arum](foto/arum.png)
+![adit](foto/adit.png)
 
 
 <br><br>
