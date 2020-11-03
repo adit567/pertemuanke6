@@ -202,7 +202,7 @@ Hasil dari source code tersebut seperti gambar dibawah ini :<br>
 
 ``` python
 
-w,x,y,z=10,15,20,25
+a,b,c,d=20,30,40,50
 
 ```
 
@@ -210,7 +210,7 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z)`
+`print(a,b,c,d)`
 
 ```
 
@@ -218,7 +218,7 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z,sep=",")`
+`print(a,b,c,d,sep=",")`
 
 ```
 
@@ -226,7 +226,7 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z,sep="")`
+`print(a,b,c,d,sep="")`
 
 ```
 
@@ -234,7 +234,7 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z,sep=":")`
+`print(a,b,c,d,sep=":")`
 
 ```
 
@@ -244,13 +244,13 @@ w,x,y,z=10,15,20,25
 
 ``` python
 
-`print(w,x,y,z,sep="-----")`
+`print(a,b,c,d,sep="------")`
 
 ```
 
 * hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 
-![hasilsyntax](poto/hasilsyntax.png)
+![syntax](foto/syntax.png)
 
 
 
