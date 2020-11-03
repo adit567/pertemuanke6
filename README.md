@@ -21,7 +21,7 @@ Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat A
 ![pertemuan](foto/pertemuan5.png) <br>
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau Klik Link berikut ([pertemuan5 python](pertemuan5.py)): <br>
-```python <br>
+``` python <br>
 
 print("==============================") <br>
 print("= NAMA    : Muhammad Rifai Aditia    ") <br>
@@ -55,13 +55,13 @@ print("==============================") <br>
 
 ```
 Berikut Penjelasannya :<br>
-```python <br>
+``` python <br>
 print("please enter your full name : ") <br>
 ``` <br>
 Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter your full name :** ". <br>
  Untuk menampilkan output string, saya menggunakan *tanda petik dua* didalam fungsi print(), sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan *tanda petik dua*. Contohnya : <br>
 
-```python
+``` python
 l
 print("Nama saya adalah...") <br>
 print(1234567) <br>
@@ -71,17 +71,16 @@ print(1234567) <br>
 
 * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini : <br>
 
- ```python 
+ ``` python
 
 `fullname=input()` <br>
 ``` <br>
-**Keterangan** : <br> 
-`>Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
-`>Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br> 
- `*(newline)*` <br>
-
-
-
+**Keterangan** : <br>
+`Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
+`Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br> 
+`(newline)`<br>
+```
+![nama](foto/nama.png)
 pada gambar di atas, hasil dari inputan tersebut berwarna *hijau* <br>
 
 * Untuk memasukan perintah lain seperti *Nikname, NPM, Place Of Birth, Date Of Birth, Year Of Birth, Phone Number, and Addres* mengikuti perintah sama seperti memasukan *fullname* <br>
@@ -112,7 +111,6 @@ Keterangan : <br>
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas
 Hasil dari source code diatas adalah seperti gambar dibawah ini : <br>
 ```
-![salam](poto/salam.png)
 
 `print(f"Let me introduce my self, my name is {fullname}, but you can call me {nickname}, my NPM {npm}, I was born in {pob} and iam {dob} years old, I am very glad if you want to invite my house in {address}, So don't forget to call me before with the number {phone}, \n\n Thanks you ")`
 
@@ -307,7 +305,7 @@ Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, 
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [bintang dua] )<br>
  Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10, dengan output  sebagai berikut : <br>
 
- ![Operasi Aritmatika Pangkat](poto/hasilstringg.png)
+ ![hasilstringg](poto/hasilstringg.png)
  
  **String Format 2** <br>
  
