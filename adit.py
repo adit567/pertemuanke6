@@ -1,8 +1,8 @@
-print("==============================") 
+print("=====================================") 
 print("= NAMA    : Muhammad Rifai Aditia    ") 
-print("= NIM     : 312010065       ") 
-print("= KELAS   : TI.20 A.1         ") 
-print("==============================") 
+print("= NIM     : 312010065                ") 
+print("= KELAS   : TI.20 A.1                ") 
+print("=====================================") 
 
 print("Please enter your full name : Muhammad Rifai Aditia")
 fullname=input() 
