@@ -338,7 +338,7 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 
 
-![sourcecode](poto/sourcecode.png)
+![sourcecode2](foto/sourcecode2.png)
 
 
 <br><br>
