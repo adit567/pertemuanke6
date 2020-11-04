@@ -51,7 +51,7 @@ print("==============================") <br>
 `dob=input("2020-year")` <br>
 
 `print("\n\n Assalamu'alaikum. ")` <br>
-`print("f\n Let me introduce my self, my name is {Risky HariAdi}, but you can call me {Risky}, my NPM {312010124}, I was born in {BEKASI} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Graha Bagasasi}, So don't forget to call me before with the number {085282024179}, \n\n Thanks you very much ")` <br>
+`print("f\n Let me introduce my self, my name is {Muhammad Rifai Aditia}, but you can call me {Radit}, my NPM {312010065}, I was born in {Ponorogo} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Graha Bagasasi}, So don't forget to call me before with the number {0895320208010}, \n\n Thanks you very much ")` <br>
 
 ```
 Berikut Penjelasannya :<br>
