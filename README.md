@@ -42,16 +42,16 @@ print("==============================") <br>
 `print("Please enter your month of birth : Januari")` <br> 
 `month=input()` <br>
 `print("Please enter year of birth : 2002")` <br> 
-`year=input'                                                                                                                                                
+`year=input'                                                                              
 `print("Please enter your phone number : 0895320208010")` <br>
 `phone=input()` <br>
-`print("Please enter your address : Perumahan Graha Bagasasi")` <br> 
+`print("Please enter your address : Perumahan ")` <br> 
 `address=input()` <br>
 
 `dob=input("2020-year")` <br>
 
 `print("\n\n Assalamu'alaikum. ")` <br>
-`print("f\n Let me introduce my self, my name is {Muhammad Rifai Aditia}, but you can call me {Radit}, my NPM {312010065}, I was born in {Ponorogo} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Graha Bagasasi}, So don't forget to call me before with the number {0895320208010}, \n\n Thanks you very much ")` <br>
+`print("f\n Let me introduce my self, my name is {Muhammad Rifai Aditia}, but you can call me {Radit}, my NPM {312010065}, I was born in {Ponorogo} and iam {2020} years old, I am very glad if you want to invite my house in {Perumahan Rusa}, So don't forget to call me before with the number {0895320208010}, \n\n Thanks you very much ")` <br>
 
 ```
 Berikut Penjelasannya :<br>
